@@ -134,10 +134,13 @@ h1 {
 #home{
 	padding-top: 80px;
 }
-#education{
+#dates{
 	padding-top: 80px;
 }
-#research{
+#cfp{
+	padding-top: 80px;
+}
+#org{
 	padding-top: 80px;
 }
 #contact{
@@ -210,3 +213,4 @@ h1 {
 /* .contentbar3 {display:none}  */
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
+
