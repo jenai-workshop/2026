@@ -2,12 +2,8 @@
 /* CSS Document */
 
 a {
-  color: #1a73e8;
+  color: #5f2dbd;
   text-decoration: underline;
-}
-
-a:hover {
-  color: #0b5ed7;
 }
 
 h1 {
@@ -28,7 +24,7 @@ h2 {
   font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 1.6em;
   font-weight: 600;
-  color: #5f2dbd;
+  color: #1a73e8;
   margin-top: 1.5em;
   margin-bottom: 0.6em;
   line-height: 1.3;
@@ -224,6 +220,7 @@ body {
 /* .contentbar3 {display:none}  */
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
+
 
 
 
