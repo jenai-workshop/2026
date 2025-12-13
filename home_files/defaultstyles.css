@@ -42,9 +42,9 @@ h2 {
 
 h3 {
   font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  font-size: 1.3em;
-  font-weight: 500;
-  color: #1a73e8;
+  font-size: 1.0em;
+  font-weight: 400;
+  color: #333;
   margin-top: 1.2em;
   margin-bottom: 0.4em;
   line-height: 1.2;
@@ -221,6 +221,7 @@ body {
 /* .contentbar3 {display:none}  */
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
+
 
 
 
