@@ -43,6 +43,16 @@ h2 {
 	margin:0 15px 15px 0;
 }
 
+h3 {
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.3em;
+  font-weight: 600;
+  color: #333;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+  line-height: 1.35;
+}
+
 img { border:none;}
 
 body {
@@ -214,6 +224,7 @@ body {
 /* .contentbar3 {display:none}  */
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
+
 
 
 
