@@ -5,9 +5,7 @@ a {
   color: #1a73e8;
   text-decoration: underline;
 }
-a:visited {
-  color: #5f2dbd;
-}
+
 a:hover {
   color: #0b5ed7;
 }
@@ -213,6 +211,7 @@ body {
 /* .contentbar3 {display:none}  */
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
+
 
 
 
