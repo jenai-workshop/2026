@@ -2,9 +2,10 @@
 /* CSS Document */
 
 .hero img {
-    width: 600px;
+    width: auto;
     height: 400px;       
     display: block;
+	margin: 0 auto;
 }
 
 a {
@@ -230,6 +231,7 @@ body {
 /* .contentbar3 {display:none}  */
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
+
 
 
 
