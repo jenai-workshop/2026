@@ -107,6 +107,7 @@ h3 {
 	background-color:#eeeeee;
 	margin:0;
 	border-bottom:3px solid #b28c5b;
+	z-index: 1000;
 }
 
 #banner p {
@@ -217,6 +218,7 @@ body {
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
+
 
 
 
