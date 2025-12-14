@@ -161,6 +161,9 @@ body {
 	margin:0 15px;
 	line-height:160%;
 }
+#home{
+	padding-top: 80px;
+}
 #about{
 	padding-top: 80px;
 }
@@ -221,6 +224,7 @@ body {
 /* .contentbar3 {display:none}  */
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
+
 
 
 
