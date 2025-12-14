@@ -20,6 +20,11 @@
   align-items: center;*/
 }
 
+.topdiv a {
+  color: white;
+  text-decoration: underline;
+}
+
 .hero img {
     width: auto;
     height: 400px;       
@@ -212,6 +217,7 @@ body {
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
+
 
 
 
