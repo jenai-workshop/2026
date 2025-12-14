@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .hero img {
-    width: 100%;
+    width: 600px;
     height: 400px;       /* adjust height */
     object-fit: cover;  /* fills without distortion */
     display: block;
@@ -231,6 +231,7 @@ body {
 /* .contentbar3 {display:none}  */
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
+
 
 
 
