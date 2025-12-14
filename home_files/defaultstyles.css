@@ -4,9 +4,9 @@
 .topdiv {
 	top: 80px;
 	left: 0px;
-  height: 350px;
-  background: url("../img/HK2.png") center/cover no-repeat;
-  position: relative;
+  	height: 250px;
+  	background: url("../img/HK2.png") center/cover no-repeat;
+  	position: relative;
 }
 
 .overlay {
@@ -212,6 +212,7 @@ body {
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
+
 
 
 
