@@ -1,6 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
 
+.hero img {
+    width: 100%;
+    height: 400px;       /* adjust height */
+    object-fit: cover;  /* fills without distortion */
+    display: block;
+}
+
 a {
   color: #5f2dbd;
   text-decoration: underline;
@@ -224,6 +231,7 @@ body {
 /* .contentbar3 {display:none}  */
 /* .contentbar4 {display:none}  */
 /* .contentbar5 {display:none}  */
+
 
 
 
