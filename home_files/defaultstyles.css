@@ -127,6 +127,7 @@ body {
 #page {
 	background-color:#FFF;
 	overflow:auto;
+	margin-top: 100px;
 	/*padding:15px 0;*/
 	/*top: 100px;*/
 	/*position: absolute;*/
@@ -162,7 +163,6 @@ body {
 }
 
 #content {
-	margin-top: 100px;
 	margin:0 15px;
 	line-height:160%;
 }
@@ -211,4 +211,5 @@ body {
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
+
 
