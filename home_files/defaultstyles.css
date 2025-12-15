@@ -169,11 +169,11 @@ body {
 }
 
 #content {
-	/*padding-top: 50px;*/
+	padding-top: 98px;
 	margin:0 15px;
 	line-height:160%;
 }
-#home{
+/*#home{
 	padding-top: 98px;
 }
 #about{
@@ -190,7 +190,7 @@ body {
 }
 #contact{
 	padding-top: 98px;
-}
+}*/
 #footer {
 	padding:15px;	
 	overflow:auto;
@@ -218,6 +218,7 @@ body {
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
+
 
 
 
