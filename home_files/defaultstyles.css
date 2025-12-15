@@ -165,10 +165,10 @@ body {
 	margin:0 15px;
 	line-height:160%;
 }
-/*#home{
+#home{
 	padding-top: 98px;
 }
-#about{
+/*#about{
 	padding-top: 98px;
 }
 #dates{
@@ -210,6 +210,7 @@ body {
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
+
 
 
 
