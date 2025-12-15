@@ -162,6 +162,7 @@ body {
 }
 
 #content {
+	margin-top: 100px;
 	margin:0 15px;
 	line-height:160%;
 }
@@ -210,6 +211,7 @@ body {
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
+
 
 
 
