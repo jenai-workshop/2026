@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .topdiv {
-	top: 80px;
+	top: 90px;
 	left: 0px;
   	height: 250px;
   	background: url("../img/HK.jpg") center/cover no-repeat;
@@ -218,6 +218,7 @@ body {
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
+
 
 
 
