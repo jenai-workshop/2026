@@ -174,22 +174,22 @@ body {
 	line-height:160%;
 }
 #home{
-	padding-top: 80px;
+	padding-top: 98px;
 }
 #about{
-	padding-top: 80px;
+	padding-top: 98px;
 }
 #dates{
-	padding-top: 80px;
+	padding-top: 98px;
 }
 #cfp{
-	padding-top: 80px;
+	padding-top: 98px;
 }
 #org{
-	padding-top: 80px;
+	padding-top: 98px;
 }
 #contact{
-	padding-top: 80px;
+	padding-top: 98px;
 }
 #footer {
 	padding:15px;	
@@ -218,6 +218,7 @@ body {
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
+
 
 
 
