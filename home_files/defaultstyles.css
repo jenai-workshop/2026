@@ -2,8 +2,8 @@
 /* CSS Document */
 
 .topdiv {
-	/*top: 98px;
-	left: 0px;*/
+	top: 100px;
+	left: 0px;
   	height: 250px;
   	background: url("../img/HK.jpg") center/cover no-repeat;
   	position: relative;
@@ -129,7 +129,7 @@ body {
 	overflow:auto;
 	/*padding:15px 0;*/
 	/*top: 100px;*/
-	position: relative;
+	/*position: relative;*/
 	-moz-border-radius-bottomleft:10px;
 	-webkit-border-bottom-left-radius:10px;
 	-moz-border-radius-bottomright:10px;
@@ -168,10 +168,10 @@ body {
 /*#home{
 	padding-top: 98px;
 }*/
-/*#about{
-	padding-top: 98px;
+#about{
+	padding-top: 100px;
 }
-#dates{
+/*#dates{
 	padding-top: 98px;
 }
 #cfp{
@@ -210,6 +210,7 @@ body {
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
+
 
 
 
