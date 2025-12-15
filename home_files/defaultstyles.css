@@ -165,23 +165,23 @@ body {
 	margin:0 15px;
 	line-height:160%;
 }
-/*#home{
-	padding-top: 98px;
-}*/
+#home{
+	padding-top: 100px;
+}
 #about{
 	padding-top: 100px;
 }
-/*#dates{
-	padding-top: 98px;
+#dates{
+	padding-top: 100px;
 }
 #cfp{
-	padding-top: 98px;
+	padding-top: 100px;
 }
 #org{
-	padding-top: 98px;
+	padding-top: 100px;
 }
 #contact{
-	padding-top: 98px;
+	padding-top: 100px;
 }*/
 #footer {
 	padding:15px;	
@@ -210,6 +210,7 @@ body {
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
+
 
 
 
